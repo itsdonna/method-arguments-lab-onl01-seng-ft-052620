@@ -5,4 +5,3 @@ describe "#introduction" do
     expect{introduction("Josh")}.to output("Hi, my name is Josh.\n").to_stdout
   end
 end
-
